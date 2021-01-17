@@ -55,6 +55,7 @@ So let's see what we can see from the data:
 
 ![Scores per subset](https://github.com/lhache/lgbt-data/blob/main/images/scores-per-country.png?raw=true)
 
+*Conclusion*
 The data seem to indicate there is not much real difference between France and Germany.
 
 
@@ -68,10 +69,9 @@ Let's compare with the results from the analysis. The higher the score, the less
 
 ![Map from analysis results](https://github.com/lhache/lgbt-data/blob/main/images/map-output.png?raw=true)
 
-What can we infer from this?
-- it seems there is more discrimination in eastern and southern Europe but it's not a norm.
-- The UK case is quite puzzling, I'm wondering whether this is conclusive or not.
-
+*What can we infer from that?*
+- it seems there is more discrimination in eastern and southern Europe but it's not a standard.
+- The UK case is quite puzzling, I'm wondering whether this is anomaly or not.
 
 
 ## Question 3: do transgenders feel more discriminated than other categories?
@@ -82,4 +82,13 @@ Let's look again at the scores from the analysis:
 
 ![Scores per subset](https://github.com/lhache/lgbt-data/blob/main/images/scores-per-category.png?raw=true)
 
+*Conclusion*
 The data seems to indicate that yes, transgenders seem to be/feel more discriminated than the other members of the LGBT people. 
+
+
+## Improvements on the analysis
+
+A few things could have been made better, such as:
+- use the entire discrimination dataset instead of a subset of it
+- use all the four other datasets because they also relate to discrimination questions
+
