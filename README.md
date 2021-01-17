@@ -6,6 +6,15 @@
 ## A quick look at the data
 
 
+Where do the respondants come from?
+
+![Respondants per country](https://github.com/lhache/lgbt-data/blob/main/images/respondants-per-country.png?raw=true)
+
+In which subset do they fall into?
+
+![Respondants per category](https://github.com/lhache/lgbt-data/blob/main/images/respondants-per-category.png?raw=true)
+
+
 ## Methodology
 
 
@@ -24,6 +33,16 @@ I've got to travel quite a bit and have had the chance to meet people from many 
 
 ![My mental diagonal](https://github.com/lhache/lgbt-data/blob/main/images/eu-diagonal.png?raw=true)
 
-Let's compare with the results from the analysis:
+Let's compare with the results from the analysis. The higher the score, the less reported discrimination.
 
 ![Map from analysis results](https://github.com/lhache/lgbt-data/blob/main/images/map-output.png?raw=true)
+
+So what can we infer from this?
+- it seems there is more discrimination in eastern and southern Europe but it's not a norm.
+- The UK case is quite puzzling, I'm wondering whether this is conclusive or not.
+
+
+
+## Question 3: do transgenders feel more discriminated than other categories?
+
+My gut feeling is that there is more discrimination towards transgenders than towards homosexuals or bisexuals.
