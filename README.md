@@ -24,7 +24,7 @@ In which subset do they fall into?
 
 ## Methodology
 
-The goal was to create a discrimination score from the given answers. From this score, we can compare discrimination within countries or subsets.
+The goal was to create a acceptance score from the given answers. From this score, we can compare discrimination within countries or subsets.
 
 In the case of this analysis, only the discrimination dataset was used. 
 The responses were of 3 categories:
@@ -37,13 +37,13 @@ Only the yes/no questions were selected, excluding the others.
 Each answer is given with a percentage but we cannot use them as is because the ratio of Lesbians/Gays/Bisexuals/Transgenders is normal equal within the countries. Therefore, the percentages have been normalised with the weight of each subset.
 
 2. setting a score for yes/no/don't know answers
-In order to create the discrimination score, each answer type was given a score.
+In order to create the acceptance score, each answer type was given a score.
 - Don't know answers were given N/A and were dropped from the analysis
 - Yes was given -1 (because pointing to more discrimination)
 - No was given 1
 
 3. setting the discrimation score
-The answer score and the weighted percentages were combined to give the discrimination score.
+The answer score and the weighted percentages were combined to give the acceptance score.
 
 
 ## Question 1: do LGBT people feel less discriminated in Germany compared to France?
