@@ -23,3 +23,7 @@ So let's see what we can see from the data:
 I've got to travel quite a bit and have had the chance to meet people from many many different countries. I'd say that Scandinavia and western Europe tend to be acceptive towards LGBT, while eastern Europe would be on the other side of the spectrum.
 
 ![My mental diagonal](https://github.com/lhache/lgbt-data/blob/main/images/eu-diagonal.png?raw=true)
+
+Let's compare with the results from the analysis:
+
+![Map from analysis results](https://github.com/lhache/lgbt-data/blob/main/images/map-output.png?raw=true)
